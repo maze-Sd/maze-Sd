@@ -12,7 +12,7 @@ I test rigorously, which means most issues, sync edge cases, race conditions, UX
 
 **Stack:** Vanilla JS, Supabase, Netlify. No frameworks.
 
-Mobile and laptop mixed workflow, mostly Termux + Acode on Android these days.
+Mobile and laptop mixed workflow. 
 
 
 Location: Morocco
