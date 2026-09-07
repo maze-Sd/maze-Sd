@@ -1,19 +1,16 @@
-### Hi, I'm Maze 👋
+### Maze
 
-Mostly self-taught developer based in Morocco. Enrolled in a fullstack IT program in 2024 (Java, SQL, some ML — still building comfort there), but most of what I use day-to-day I picked up on my own, starting with freeCodeCamp on a phone.
+Software developer based in Morocco, building web-native SaaS products.
 
-**Currently building [OSK]** — a white-label, multi-tenant SaaS for restaurant digital ordering.
+#### Active projects
 
-It started from a simple frustration: ordering food in Morocco either meant paying inflated delivery-platform prices, or messaging a restaurant directly on WhatsApp with no real menu to look at and back and forth messages. OSK is what came out of solving that properly.
+* **[Tandem](https://tandem.mazeosk.com)** — White-label direct ordering and live kitchen synchronization for restaurants.
+* **[Liassa](https://get.liassa.mazeosk.com)** — Invoice extraction, PCGM journal generation, and DGI TVA XML exports for Moroccan accounting firms.
 
-Three apps, one shared backend: a customer-facing PWA, an admin CMS for restaurant owners, and a live order dashboard for kitchen/cashier staff — all multi-tenant off a single codebase.
+#### Stack & Taste
 
-I test rigorously, which means most issues, sync edge cases, race conditions, UX gaps... get caught and patched before they ever reach production.
+* **Architecture:** Multi-tenant systems, Supabase RLS, Serverless.
+* **Frontend:** Vanilla JS, modern CSS, progressive web apps (no heavy frameworks).
+* **Data & Pipelines:** PostgreSQL, Edge Functions, document extraction pipelines.
 
-**Stack:** Vanilla JS, Supabase, Netlify. No frameworks.
-
-Mobile and laptop mixed workflow. 
-
-
-Location: Morocco
-
+ Current location: Morocco
