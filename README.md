@@ -10,7 +10,7 @@ Software developer based in Morocco, building web-native SaaS products.
 #### Stack & Taste
 
 * **Architecture:** Multi-tenant systems, Supabase RLS, Serverless.
-* **Frontend:** Vanilla JS, modern CSS, progressive web apps (no heavy frameworks).
+* **Frontend:** Vanilla JS, modern CSS, progressive web apps.
 * **Data & Pipelines:** PostgreSQL, Edge Functions, document extraction pipelines.
 
  Current location: Morocco
