@@ -1,16 +1,24 @@
+
 ### Maze
 
-Software developer based in Morocco, building web-native SaaS products.
+I build web products around practical problems, from understanding the workflow to designing, developing and shipping the solution.
 
-#### Active projects
+### Selected projects
 
-* **[Tandem](https://tandem.mazeosk.com)** — White-label direct ordering and live kitchen synchronization for restaurants.
-* **[Liassa](https://get.liassa.mazeosk.com)** — Invoice extraction, PCGM journal generation, and DGI TVA XML exports for Moroccan accounting firms.
+* **[Tandem](https://tandem.mazeosk.com)** — A direct ordering platform for restaurants, with delivery and pickup flows, QR table ordering, and kitchen coordination.
+* **[Liassa](https://get.liassa.mazeosk.com)** — A document processing and accounting workflow tool that turns invoices and bank statements into structured data and accounting exports.
 
-#### Stack & Taste
+### Languages
 
-* **Architecture:** Multi-tenant systems, Supabase RLS, Serverless.
-* **Frontend:** Vanilla JS, modern CSS, progressive web apps.
-* **Data & Pipelines:** PostgreSQL, Edge Functions, document extraction pipelines.
+JavaScript · TypeScript · HTML · CSS · SQL
 
- Current location: Morocco
+### Areas of focus
+
+* Full-stack web development
+* Product development and interface design
+* Application architecture
+* Data processing and workflow automation
+
+### Elsewhere
+
+[Portfolio](https://mazeosk.com) · [LinkedIn](https://www.linkedin.com/in/simbo-diarra-960a8b419/) · [TikTok](https://www.tiktok.com/@mazeosk)
